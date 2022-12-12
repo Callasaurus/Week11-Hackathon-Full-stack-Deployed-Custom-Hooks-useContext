@@ -11,7 +11,7 @@ Tools and languages:
 - Node.js
 - Express
 - SQL
-- Deployment (Netlify)
+- Deployment (Netlify & Render)
 
 # Deployed online:
 
