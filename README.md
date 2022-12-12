@@ -20,6 +20,6 @@ Try it yourself:
 
 # App demo
 
-https://user-images.githubusercontent.com/112335053/207041314-2b554916-855f-4941-a23c-d0941a73aaa0.mp4
+https://user-images.githubusercontent.com/112335053/207044462-fa87710f-c538-47b1-ad35-a65164579cf5.mp4
 
 
