@@ -1,0 +1,32 @@
+{
+  "name": "bc13_w11d5_hackathon-back-end-room-24-7-jalla-ft-kylie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config app.js",
+    "dev": "nodemon -r dotenv/config app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPR95/bc13_w11d5_hackathon-back-end-room-24-7-jalla-ft-kylie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPR95/bc13_w11d5_hackathon-back-end-room-24-7-jalla-ft-kylie/issues"
+  },
+  "homepage": "https://github.com/JPR95/bc13_w11d5_hackathon-back-end-room-24-7-jalla-ft-kylie#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0"
+  }
+}
